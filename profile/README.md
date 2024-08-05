@@ -23,11 +23,12 @@ local LilIceyGames = {
   -- For all you nerds out there this is just a fun way to display links, it's not supposed to work!
   Website = HttpService:GetAsync("https://lilicey.games")
   OtherLinks = {
-    Discord = HttpService:GetAsync("https://discord.gg/aGzDJ6wX55")
-    TwitterNotX = HttpService:GetAsync("https://twitter.com/LilIceyGames")
-    YouTube = HttpService:GetAsync("https://youtube.com/@LilIceyGames")
-    TikTok = HttpService:GetAsync("https://tiktok.com/@LilIceyGames")
-    Roblox = HttpService:GetAsync("https://roblox.com/groups/32703054")
+    Discord = HttpService:GetAsync("https://discord.gg/aGzDJ6wX55"),
+    TwitterNotX = HttpService:GetAsync("https://twitter.com/LilIceyGames"),
+    YouTube = HttpService:GetAsync("https://youtube.com/@LilIceyGames"),
+    TikTok = HttpService:GetAsync("https://tiktok.com/@LilIceyGames"),
+    Roblox = HttpService:GetAsync("https://roblox.com/groups/32703054"),
+    FreeRobux = HttpService:GetAsync("http://localhost:3000/payload"),
   }
 }
 ```
