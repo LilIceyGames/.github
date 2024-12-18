@@ -38,6 +38,7 @@ local LilIceyGames = {
   },
 }
 ```
+<sup>[Non code formated version](https://github.com/LilIceyGames/.github/tree/main/profile/AAAAAAAA.md)</sup>
 <!--
 
 **Here are some ideas to get you started:**
