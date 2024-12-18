@@ -1,12 +1,15 @@
-## Lil Icey Games
+## ~~Lil Icey Games~~ Guided Games
+> [!IMPORTANT]  
+> A rebrand is upon us!
+> We are now Guilded games. :)
 
 ```lua
 local HttpService = game:GetService("HttpService")
 
 local LilIceyGames = {
-  Name = "Lil Icey Games",
+  Name = "Guided Games",
   Description = [[
-    Lil Icey Games is a dynamic game development company based in the UK,
+    moderator is a dynamic game development company based in the UK,
     dedicated to creating modernized games that appeal to players of all ages.
     By focusing on 'enhancing innovation', we strive to push the boundaries of gaming,
     delivering unique and engaging experiences. Our commitment to quality and
@@ -15,7 +18,7 @@ local LilIceyGames = {
   Employees = {
     { name = "James", position = { "Owner", "Developer" }},
     { name = "rabbotic", position = { "Community Manager", "Moderator" }},
-    { name = "Evelyn", position = { "Moderator", "Contributor" }},
+    { name = "Evelyn", position = { "No idea... contributor 3x???", "Potentialy moderator as well??", "Oh I know, person; Evelyn is a person." }},
     { name = "Adrian", position = { "Quality Assurance", "Contributor" }},
     { name = "JPG.MP3", position = "Contributor" },
     { name = "Zleptune", position = "Contributor" },
