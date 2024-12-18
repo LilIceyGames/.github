@@ -12,7 +12,7 @@ local HttpService = game:GetService("HttpService")
 local LilIceyGames = {
   Name = "Guided Games",
   Description = [[
-    moderator is a dynamic game development company based in the UK,
+    Guided Games is a dynamic game development company based in the UK,
     dedicated to creating modernized games that appeal to players of all ages.
     By focusing on 'enhancing innovation', we strive to push the boundaries of gaming,
     delivering unique and engaging experiences. Our commitment to quality and
