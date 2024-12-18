@@ -1,7 +1,10 @@
 ## ~~Lil Icey Games~~ Guided Games
-> [!IMPORTANT]  
-> A rebrand is upon us!
-> We are now Guilded games. :)
+
+### Rebranding Announcement: Lil Icey Games → Guided Games
+
+> [!note]
+> **We're now Guided Games!** 🎉  
+> Yes, we've rebranded. Same team, same fun—just a fresh name!
 
 ```lua
 local HttpService = game:GetService("HttpService")
@@ -24,7 +27,7 @@ local LilIceyGames = {
     { name = "Zleptune", position = "Contributor" },
   },
   -- For all you nerds out there this is just a fun way to display links, it's not supposed to work!
-  Website = HttpService:GetAsync("https://lilicey.games"),
+  Website = HttpService:GetAsync("https://guidedgames.org"),
   OtherLinks = {
     Discord = HttpService:GetAsync("https://discord.gg/aGzDJ6wX55"),
     TwitterNotX = HttpService:GetAsync("https://twitter.com/LilIceyGames"),
