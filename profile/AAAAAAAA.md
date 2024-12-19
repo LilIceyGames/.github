@@ -7,7 +7,7 @@ Our small but dedicated team brings a mix of skills to the table:
 
 - **James** - Owner, Developer  
 - **rabbotic** - Community Manager, Moderator  
-- **Evelyn** - Contributor, Potential Moderator-in-Training  
+- **Evelyn** - No idea  
 - **Adrian** - Quality Assurance, Contributor  
 - **JPG.MP3** - Contributor  
 - **Zleptune** - Contributor
