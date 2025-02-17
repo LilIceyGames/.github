@@ -1,6 +1,4 @@
-## ~~Lil Icey Games~~ Guided Games
-
-### Rebranding Announcement: Lil Icey Games → Guided Games
+## ~~Lil Icey~~ Guided Games
 
 > [!note]
 > **We're now Guided Games!** 🎉  
